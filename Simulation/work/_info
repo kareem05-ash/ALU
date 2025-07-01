@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/GitHub/AlU/RTL
+T_opt
+!s110 1751329596
+V:L?fP3LZe2?WC7Hj_>T2L2
+04 6 4 work alu_tb fast 0
+=1-bce92f823cb8-68632b3c-da-5634
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+valu
+Z2 !s110 1751329594
+!i10b 1
+!s100 BEd=e^gYDnTM53bWQEklO2
+Ik[PP@cod7T>TjlATdYbZ22
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1751329543
+8ALU.v
+FALU.v
+L0 1
+Z4 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z5 !s108 1751329594.000000
+Z6 !s107 ALU_TB.v|ALU.v|
+Z7 !s90 -reportprogress|300|ALU.v|ALU_TB.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+valu_tb
+R2
+!i10b 1
+!s100 ^fiN3FgNcm^cIO6Q@n5We0
+IZH9P4gW?HH7l^IWD_:>Gi3
+R3
+R0
+w1751329579
+8ALU_TB.v
+FALU_TB.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
